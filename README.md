@@ -27,3 +27,13 @@ userid:password
 
 
 http -v POST https://api.challenge.hennge.com/challenges/003 "Authorization: Basic bm9iaW5zb24yMEBnbWFpbC5jb206MDM3MDcxNzMwOA==" contact_email=nobinson20@gmail.com github_url=https://gist.github.com/nobinson20/cd21da104fed4a4a79f14453ff21a98b 
+
+
+
+
+
+
+
+
+
+PYTHON으로 

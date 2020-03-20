@@ -31,7 +31,10 @@ http -v POST https://api.challenge.hennge.com/challenges/003 "Authorization: Bas
 
 
 # Problem Solved!
-The issue was
+
+I made http request with Java, whose source code is located at 'untitled1' in this repository.
+
+In fact, the error occured due to a silly typo in the direction, which is:
 
 String seed64 = "6e6f62696e736f6e3230406e617665722e636f6d4844454348414c4c454e4745303033"; //[usrID]HDECHALLENGE003
 
